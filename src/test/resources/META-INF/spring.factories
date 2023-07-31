@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = com.projectx.\
+    vacationrentals.config.TestContainersSpringContextCustomizerFactory,com.\
+    projectx.vacationrentals.config.\
+    SqlTestContainersSpringContextCustomizerFactory
